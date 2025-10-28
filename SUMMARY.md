@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Webserver-Handbuch](README.md)
+* [Page](README.md)
